@@ -1,0 +1,8 @@
+title: My Jekyll Site
+description: A simple Jekyll site deployed with GitHub Actions
+baseurl: ""
+url: "https://your-github-username.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
